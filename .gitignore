@@ -1,0 +1,9 @@
+.idea/
+*venv/
+*.pyc
+db.*
+data/
+staticfiles/
+ssh
+ssh.pub
+HorrorMovies/secret_key_settings.py

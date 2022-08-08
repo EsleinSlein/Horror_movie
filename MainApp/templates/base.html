@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% block content %}
+    {% endblock %}
+</head>
+<body>
+<header>
+    {% block content2 %}
+    {% endblock %}
+    {% if request.user.is_authenticated %}
+      <div style="position: absolute;
+    /* text-align: center; */
+    left: 80%;
+    top: 30px;" >
+          <div>{{ user.username}} | <a href="{% url 'logout' %}"> Выйти </a> </div>
+    </div>
+    <div style="position: absolute;
+    /* text-align: center; */
+    left: 70%;
+    top: 30px;" >
+        <a href="{% url 'add_movie' %}"> Добавить фильм </a>
+    </div>
+    {%else%}
+    <div style="position: absolute;
+    /* text-align: center; */
+    left: 80%;
+    top: 30px;" >
+        <a href="{% url 'register' %}"> Регистрация </a> | <a href="{% url 'login' %}"> Войти </a>
+    </div>
+    {% endif %}
+</header>
+
+{% block content1 %}
+
+{% endblock %}
+    {% if page_obj.has_other_pages %}
+    <nav class="list-pages" style="text-align: center">
+
+            {% if page_obj.has_previous %}
+                <a href="?page={{ page_obj.previous_page_number }}">&lt;</a>
+            {% endif %}
+
+            {% for p in paginator.page_range %}
+            {% if page_obj.number == p %}
+            {% elif p >= page_obj.number|add:-2 and p <= page_obj.number|add:2 %}
+                <a href="?page={{ p }}">{{ p }}</a>
+            {% endif %}
+            {% endfor %}
+
+            {% if page_obj.has_next %}
+                <a href="?page={{ page_obj.next_page_number }}">&gt;</a>
+            {% endif %}
+    </nav>
+{% endif %}
+</body>
+</html>

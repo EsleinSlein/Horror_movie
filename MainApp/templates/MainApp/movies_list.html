@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+    {% block content %}
+ <title>{{title}}</title>
+    {% endblock %}
+{% block content2 %}
+<h2> Список фильмов:</h2>
+    {% endblock %}
+
+{% block content1 %}
+
+<div>
+    {% for movie in object_list %}
+    <ul>
+        <li> Название: {{ movie.title}} </li>
+        <li>год: {{movie.year}}</li>
+        <li>рейтинг: {{movie.film_ratings}}</li>
+        <li>ссылка: <a href="{{movie.link }}">{{movie.link }}</a></li>
+    </ul>
+    {% endfor %}
+</div>
+{% endblock %}

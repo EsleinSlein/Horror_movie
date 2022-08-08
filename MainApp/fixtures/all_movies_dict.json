@@ -1,0 +1,2002 @@
+[
+    {
+        "model": "MainApp.movies",
+        "pk": 1,
+        "fields": {
+            "title": "Чужой",
+            "year": 1979,
+            "film_ratings": 8.1,
+            "link": "https://www.kinopoisk.ru/film/386/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 2,
+        "fields": {
+            "title": "Чужие",
+            "year": 1986,
+            "film_ratings": 8.0,
+            "link": "https://www.kinopoisk.ru/film/406/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 3,
+        "fields": {
+            "title": "Yonimo kimyô na monogatari: Aki no tokubetsu hen",
+            "year": 2009,
+            "film_ratings": 8.0,
+            "link": "https://www.kinopoisk.ru/film/481932/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 4,
+        "fields": {
+            "title": "Возница",
+            "year": 1920,
+            "film_ratings": 8.0,
+            "link": "https://www.kinopoisk.ru/film/79487/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 5,
+        "fields": {
+            "title": "Другие",
+            "year": 2001,
+            "film_ratings": 7.9,
+            "link": "https://www.kinopoisk.ru/film/494/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 6,
+        "fields": {
+            "title": "Фауст",
+            "year": 1926,
+            "film_ratings": 7.9,
+            "link": "https://www.kinopoisk.ru/film/72556/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 7,
+        "fields": {
+            "title": "Нечто",
+            "year": 1982,
+            "film_ratings": 7.9,
+            "link": "https://www.kinopoisk.ru/film/8366/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 8,
+        "fields": {
+            "title": "Хищник",
+            "year": 1987,
+            "film_ratings": 7.9,
+            "link": "https://www.kinopoisk.ru/film/6303/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 9,
+        "fields": {
+            "title": "Ворон",
+            "year": 1994,
+            "film_ratings": 7.9,
+            "link": "https://www.kinopoisk.ru/film/12362/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 10,
+        "fields": {
+            "title": "Вий",
+            "year": 1967,
+            "film_ratings": 7.9,
+            "link": "https://www.kinopoisk.ru/film/45771/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 11,
+        "fields": {
+            "title": "Пила: Игра на выживание",
+            "year": 2004,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/64187/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 12,
+        "fields": {
+            "title": "Кайдан: Повествование о загадочном и ужасном",
+            "year": 1964,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/63539/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 13,
+        "fields": {
+            "title": "Уродцы",
+            "year": 1932,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/8430/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 14,
+        "fields": {
+            "title": "От заката до рассвета",
+            "year": 1995,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/4815/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 15,
+        "fields": {
+            "title": "Дракула",
+            "year": 1992,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/1727/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 16,
+        "fields": {
+            "title": "Призрак виллы Натхов",
+            "year": 2008,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/281032/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 17,
+        "fields": {
+            "title": "Мизери",
+            "year": 1990,
+            "film_ratings": 7.8,
+            "link": "https://www.kinopoisk.ru/film/1574/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 18,
+        "fields": {
+            "title": "Элис Купер: Добро пожаловать в мой кошмар",
+            "year": 1975,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/79102/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 19,
+        "fields": {
+            "title": "1408",
+            "year": 2007,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/195563/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 20,
+        "fields": {
+            "title": "Носферату, симфония ужаса",
+            "year": 1922,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/521/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 21,
+        "fields": {
+            "title": "Изгоняющий дьявола",
+            "year": 1973,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/491/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 22,
+        "fields": {
+            "title": "Одержимая",
+            "year": 1981,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/22697/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 23,
+        "fields": {
+            "title": "Кошмар на улице Вязов",
+            "year": 1984,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/5198/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 24,
+        "fields": {
+            "title": "Ребенок Розмари",
+            "year": 1968,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/8425/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 25,
+        "fields": {
+            "title": "Чужое лицо",
+            "year": 1966,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/56064/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 26,
+        "fields": {
+            "title": "Чёрные кошки в бамбуковых зарослях",
+            "year": 1968,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/63836/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 27,
+        "fields": {
+            "title": "Усталая смерть",
+            "year": 1921,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/79489/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 28,
+        "fields": {
+            "title": "Сжигатель трупов",
+            "year": 1968,
+            "film_ratings": 7.7,
+            "link": "https://www.kinopoisk.ru/film/179307/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 29,
+        "fields": {
+            "title": "Омен",
+            "year": 1976,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/11841/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 30,
+        "fields": {
+            "title": "Женщина-демон",
+            "year": 1964,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/83056/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 31,
+        "fields": {
+            "title": "Страшилы",
+            "year": 1996,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/5909/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 32,
+        "fields": {
+            "title": "Отвращение",
+            "year": 1965,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/8427/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 33,
+        "fields": {
+            "title": "Тайна: Мистерия продолжается",
+            "year": 2009,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/439104/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 34,
+        "fields": {
+            "title": "Молот ведьм",
+            "year": 1969,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/101333/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 35,
+        "fields": {
+            "title": "Ты мой",
+            "year": 1990,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/98055/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 36,
+        "fields": {
+            "title": "Завещание доктора Мабузе",
+            "year": 1933,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/68617/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 37,
+        "fields": {
+            "title": "Бал вампиров",
+            "year": 1967,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/11622/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 38,
+        "fields": {
+            "title": "Убойные каникулы",
+            "year": 2010,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/485261/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 39,
+        "fields": {
+            "title": "Зловещие мертвецы 3: Армия тьмы",
+            "year": 1992,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/2909/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 40,
+        "fields": {
+            "title": "Мать Иоанна от ангелов",
+            "year": 1960,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/140181/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 41,
+        "fields": {
+            "title": "Винсент",
+            "year": 2004,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/178561/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 42,
+        "fields": {
+            "title": "Американское преступление",
+            "year": 2007,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/258758/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 43,
+        "fields": {
+            "title": "Мгла",
+            "year": 2007,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/273302/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 44,
+        "fields": {
+            "title": "Чёрная дыра",
+            "year": 1999,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/785/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 45,
+        "fields": {
+            "title": "Я обвиняю",
+            "year": 1919,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/80088/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 46,
+        "fields": {
+            "title": "Зловещие мертвецы 2",
+            "year": 1987,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/2918/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 47,
+        "fields": {
+            "title": "Птицы",
+            "year": 1963,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/559/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 48,
+        "fields": {
+            "title": "Замок и ключ",
+            "year": 2011,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/463584/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 49,
+        "fields": {
+            "title": "Лабиринт",
+            "year": 2007,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/281117/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 50,
+        "fields": {
+            "title": "Доктор Джекилл и мистер Хайд",
+            "year": 1931,
+            "film_ratings": 7.6,
+            "link": "https://www.kinopoisk.ru/film/38897/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 51,
+        "fields": {
+            "title": "Смерть среди айсбергов",
+            "year": 1977,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/3875/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 52,
+        "fields": {
+            "title": "Две головы лучше чем ни одной",
+            "year": 2000,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/297675/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 53,
+        "fields": {
+            "title": "Обитель зла",
+            "year": 2002,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/801/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 54,
+        "fields": {
+            "title": "Охотники за разумом",
+            "year": 2004,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/8091/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 55,
+        "fields": {
+            "title": "Собачий завтрак",
+            "year": 2007,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/258841/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 56,
+        "fields": {
+            "title": "Легенда о Снежной женщине",
+            "year": 1968,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/273362/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 57,
+        "fields": {
+            "title": "Из ада",
+            "year": 2001,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/677/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 58,
+        "fields": {
+            "title": "Пи",
+            "year": 1997,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/8486/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 59,
+        "fields": {
+            "title": "Сердце Ангела",
+            "year": 1987,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/7471/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 60,
+        "fields": {
+            "title": "Пункт назначения",
+            "year": 2000,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/668/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 61,
+        "fields": {
+            "title": "Час волка",
+            "year": 1968,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/15178/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 62,
+        "fields": {
+            "title": "28 дней спустя",
+            "year": 2002,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/577/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 63,
+        "fields": {
+            "title": "Святая кровь",
+            "year": 1989,
+            "film_ratings": 7.5,
+            "link": "https://www.kinopoisk.ru/film/89584/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 64,
+        "fields": {
+            "title": "Добро пожаловать в Zомбилэнд",
+            "year": 2009,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/427122/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 65,
+        "fields": {
+            "title": "Глубокой ночью",
+            "year": 1945,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/8347/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 66,
+        "fields": {
+            "title": "Портрет Дориана Грея",
+            "year": 1945,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/8431/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 67,
+        "fields": {
+            "title": "Вампир: Сон Алена Грея",
+            "year": 1932,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/63700/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 68,
+        "fields": {
+            "title": "Франкенштейн",
+            "year": 1931,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/8360/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 69,
+        "fields": {
+            "title": "Человек-невидимка",
+            "year": 1933,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/8364/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 70,
+        "fields": {
+            "title": "Гремлины",
+            "year": 1984,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/7114/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 71,
+        "fields": {
+            "title": "Пила 2",
+            "year": 2005,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/86206/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 72,
+        "fields": {
+            "title": "Зомби по имени Шон",
+            "year": 2004,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/64021/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 73,
+        "fields": {
+            "title": "Твин Пикс: Вырезанные сцены",
+            "year": 2014,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/957425/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 74,
+        "fields": {
+            "title": "Братство волка",
+            "year": 2001,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/777/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 75,
+        "fields": {
+            "title": "Ключ от всех дверей",
+            "year": 2005,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/77673/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 76,
+        "fields": {
+            "title": "Секретные материалы Стрейнджа",
+            "year": 2002,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/251699/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 77,
+        "fields": {
+            "title": "Неизвестный",
+            "year": 1927,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/27272/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 78,
+        "fields": {
+            "title": "Заклятие",
+            "year": 2013,
+            "film_ratings": 7.4,
+            "link": "https://www.kinopoisk.ru/film/468994/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 79,
+        "fields": {
+            "title": "Муха",
+            "year": 1986,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/8877/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 80,
+        "fields": {
+            "title": "Дежа вю",
+            "year": 1987,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/109497/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 81,
+        "fields": {
+            "title": "Голова-ластик",
+            "year": 1977,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/15780/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 82,
+        "fields": {
+            "title": "Господин оформитель",
+            "year": 1988,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/44587/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 83,
+        "fields": {
+            "title": "Рокеры",
+            "year": 2001,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/94575/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 84,
+        "fields": {
+            "title": "Девочка из переулка",
+            "year": 1976,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/6972/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 85,
+        "fields": {
+            "title": "Оно",
+            "year": 2017,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/453397/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 86,
+        "fields": {
+            "title": "Не заглядывай под кровать",
+            "year": 1999,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/198925/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 87,
+        "fields": {
+            "title": "Факультет",
+            "year": 1998,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/3547/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 88,
+        "fields": {
+            "title": "Дракула",
+            "year": 1931,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/8436/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 89,
+        "fields": {
+            "title": "Под сенью цветущих вишен",
+            "year": 1975,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/223219/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 90,
+        "fields": {
+            "title": "Дрожь земли",
+            "year": 1989,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/18440/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 91,
+        "fields": {
+            "title": "Санаторий «Под клепсидрой»",
+            "year": 1973,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/168149/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 92,
+        "fields": {
+            "title": "Падение дома Ашеров",
+            "year": 1928,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/83057/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 93,
+        "fields": {
+            "title": "Живая мертвечина",
+            "year": 1992,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/5916/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 94,
+        "fields": {
+            "title": "Рассвет мертвецов",
+            "year": 2004,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/36544/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 95,
+        "fields": {
+            "title": "Сон объял ее дом",
+            "year": 2017,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/1045883/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 96,
+        "fields": {
+            "title": "Волк",
+            "year": 1994,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/4200/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 97,
+        "fields": {
+            "title": "Крик",
+            "year": 1996,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/1807/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 98,
+        "fields": {
+            "title": "Звонок",
+            "year": 2002,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/804/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 99,
+        "fields": {
+            "title": "Носферату: Призрак ночи",
+            "year": 1978,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/22872/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 100,
+        "fields": {
+            "title": "Натуральная оспа",
+            "year": 1982,
+            "film_ratings": 7.3,
+            "link": "https://www.kinopoisk.ru/film/19069/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 101,
+        "fields": {
+            "title": "Ночь живых мертвецов",
+            "year": 1968,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/8370/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 102,
+        "fields": {
+            "title": "Возвращение живых мертвецов",
+            "year": 1984,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/17159/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 103,
+        "fields": {
+            "title": "Зловещие мертвецы",
+            "year": 1981,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/2894/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 104,
+        "fields": {
+            "title": "Никогда не бери сладости у незнакомых",
+            "year": 1960,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/107471/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 105,
+        "fields": {
+            "title": "Полено",
+            "year": 2000,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/49978/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 106,
+        "fields": {
+            "title": "Три дочери",
+            "year": 1961,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/226611/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 107,
+        "fields": {
+            "title": "Руки Орлака",
+            "year": 1924,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/191288/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 108,
+        "fields": {
+            "title": "Призрак оперы",
+            "year": 1925,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/8437/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 109,
+        "fields": {
+            "title": "Завещание доктора Мабузе",
+            "year": 1933,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/72553/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 110,
+        "fields": {
+            "title": "Страница безумия",
+            "year": 1926,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/175192/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 111,
+        "fields": {
+            "title": "Кэрри",
+            "year": 1976,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/7459/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 112,
+        "fields": {
+            "title": "Три шага в бреду",
+            "year": 1968,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/19128/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 113,
+        "fields": {
+            "title": "Подглядывающий",
+            "year": 1960,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/8434/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 114,
+        "fields": {
+            "title": "Пиковая дама",
+            "year": 1916,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/40909/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 115,
+        "fields": {
+            "title": "Кристина",
+            "year": 1983,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/4079/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 116,
+        "fields": {
+            "title": "Франкенштейн",
+            "year": 1994,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/6668/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 117,
+        "fields": {
+            "title": "Мертвая зона",
+            "year": 1983,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/6916/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 118,
+        "fields": {
+            "title": "Мальпертюи",
+            "year": 1971,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/8506/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 119,
+        "fields": {
+            "title": "Шесть демонов Эмили Роуз",
+            "year": 2005,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/84967/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 120,
+        "fields": {
+            "title": "Вторжение похитителей тел",
+            "year": 1955,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/8361/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 121,
+        "fields": {
+            "title": "Сайлент Хилл",
+            "year": 2006,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/78871/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 122,
+        "fields": {
+            "title": "Байки из склепа",
+            "year": 1993,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/95210/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 123,
+        "fields": {
+            "title": "Ад",
+            "year": 1911,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/243509/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 124,
+        "fields": {
+            "title": "Фокус-покус",
+            "year": 1993,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/11112/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 125,
+        "fields": {
+            "title": "Ло",
+            "year": 2009,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/373110/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 126,
+        "fields": {
+            "title": "Хребет дьявола",
+            "year": 2001,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/662/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 127,
+        "fields": {
+            "title": "Кошачий глаз",
+            "year": 1985,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/1823/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 128,
+        "fields": {
+            "title": "Невинные",
+            "year": 1961,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/8428/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 129,
+        "fields": {
+            "title": "Кроваво-красное",
+            "year": 1975,
+            "film_ratings": 7.2,
+            "link": "https://www.kinopoisk.ru/film/139048/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 130,
+        "fields": {
+            "title": "Рокеры-2",
+            "year": 2002,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/161127/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 131,
+        "fields": {
+            "title": "Невеста Франкенштейна",
+            "year": 1935,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/8359/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 132,
+        "fields": {
+            "title": "Пункт назначения 2",
+            "year": 2003,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/669/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 133,
+        "fields": {
+            "title": "Кошмар на улице Вязов 3: Воины сна",
+            "year": 1987,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/3746/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 134,
+        "fields": {
+            "title": "Призрак едет на Запад",
+            "year": 1935,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/17887/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 135,
+        "fields": {
+            "title": "Плетеный человек",
+            "year": 1973,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/5678/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 136,
+        "fields": {
+            "title": "Маяк",
+            "year": 2019,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/1114927/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 137,
+        "fields": {
+            "title": "Поезд в Пусан",
+            "year": 2016,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/977288/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 138,
+        "fields": {
+            "title": "Прочь",
+            "year": 2017,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/944708/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 139,
+        "fields": {
+            "title": "Кинг-Конг",
+            "year": 1976,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/8858/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 140,
+        "fields": {
+            "title": "Декодер",
+            "year": 1984,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/160082/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 141,
+        "fields": {
+            "title": "Байки из склепа: Демон ночи",
+            "year": 1995,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/3787/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 142,
+        "fields": {
+            "title": "Приют",
+            "year": 2007,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/119975/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 143,
+        "fields": {
+            "title": "Возвращение в страну Оз",
+            "year": 1985,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/7137/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 144,
+        "fields": {
+            "title": "Печальная баллада для трубы",
+            "year": 2010,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/493427/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 145,
+        "fields": {
+            "title": "мама!",
+            "year": 2017,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/938643/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 146,
+        "fields": {
+            "title": "Рассвет мертвецов",
+            "year": 1978,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/8371/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 147,
+        "fields": {
+            "title": "Грайндхаус",
+            "year": 2007,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/103572/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 148,
+        "fields": {
+            "title": "Кинг Конг",
+            "year": 1933,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/534/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 149,
+        "fields": {
+            "title": "Похороненные заживо",
+            "year": 1990,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/102776/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 150,
+        "fields": {
+            "title": "Карнавал душ",
+            "year": 1962,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/226228/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 151,
+        "fields": {
+            "title": "Людоед",
+            "year": 1999,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/8907/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 152,
+        "fields": {
+            "title": "Глаза без лица",
+            "year": 1959,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/84955/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 153,
+        "fields": {
+            "title": "Третья часть ночи",
+            "year": 1971,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/177881/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 154,
+        "fields": {
+            "title": "Кладбище домашних животных",
+            "year": 1989,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/7450/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 155,
+        "fields": {
+            "title": "Звонок",
+            "year": 1998,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/8438/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 156,
+        "fields": {
+            "title": "Восставший из ада",
+            "year": 1987,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/35614/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 157,
+        "fields": {
+            "title": "Заклятие 2",
+            "year": 2016,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/780392/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 158,
+        "fields": {
+            "title": "Крикуны",
+            "year": 1995,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/28214/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 159,
+        "fields": {
+            "title": "Что скрывает ложь",
+            "year": 2000,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/879/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 160,
+        "fields": {
+            "title": "Экзистенция",
+            "year": 1999,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/7569/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 161,
+        "fields": {
+            "title": "Зеркала",
+            "year": 2008,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/263447/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 162,
+        "fields": {
+            "title": "О смерти, о любви",
+            "year": 1993,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/23465/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 163,
+        "fields": {
+            "title": "Готика",
+            "year": 2003,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/3526/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 164,
+        "fields": {
+            "title": "Страх",
+            "year": 1983,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/219472/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 165,
+        "fields": {
+            "title": "Игра в прятки",
+            "year": 2005,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/77142/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 166,
+        "fields": {
+            "title": "Колдун",
+            "year": 2001,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/7788/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 167,
+        "fields": {
+            "title": "Пандорум",
+            "year": 2009,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/422882/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 168,
+        "fields": {
+            "title": "Искушение замужней женщины 2",
+            "year": 2011,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/591782/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 169,
+        "fields": {
+            "title": "Безумие",
+            "year": 2005,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/220636/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 170,
+        "fields": {
+            "title": "Клетка",
+            "year": 2000,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/630/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 171,
+        "fields": {
+            "title": "Хеллбой II: Золотая армия",
+            "year": 2008,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/81472/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 172,
+        "fields": {
+            "title": "Реаниматор",
+            "year": 1985,
+            "film_ratings": 7.1,
+            "link": "https://www.kinopoisk.ru/film/55945/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 173,
+        "fields": {
+            "title": "Пила 3",
+            "year": 2006,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/184417/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 174,
+        "fields": {
+            "title": "Хэллоуин",
+            "year": 1978,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/8435/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 175,
+        "fields": {
+            "title": "Человек, которого не смогли повесить",
+            "year": 1939,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/32169/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 176,
+        "fields": {
+            "title": "Винтовая лестница",
+            "year": 1946,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/17883/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 177,
+        "fields": {
+            "title": "Криминальный роман",
+            "year": 1999,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/64538/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 178,
+        "fields": {
+            "title": "Поезд ужасов",
+            "year": 1972,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/5682/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 179,
+        "fields": {
+            "title": "Оборотень",
+            "year": 2000,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/680/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 180,
+        "fields": {
+            "title": "Королева проклятых",
+            "year": 2002,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/22412/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 181,
+        "fields": {
+            "title": "Смирительная рубашка",
+            "year": 1964,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/27244/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 182,
+        "fields": {
+            "title": "Зомби одним планом!",
+            "year": 2017,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/1123456/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 183,
+        "fields": {
+            "title": "Доктор Джекилл и мистер Хайд",
+            "year": 1941,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/953/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 184,
+        "fields": {
+            "title": "Псы",
+            "year": 1989,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/404123/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 185,
+        "fields": {
+            "title": "Птица с хрустальным оперением",
+            "year": 1970,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/38234/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 186,
+        "fields": {
+            "title": "Черная суббота, или Три лица страха",
+            "year": 1963,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/32152/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 187,
+        "fields": {
+            "title": "Омен 2: Дэмиен",
+            "year": 1978,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/2303/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 188,
+        "fields": {
+            "title": "Голод",
+            "year": 1983,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/9418/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 189,
+        "fields": {
+            "title": "Змеиный источник",
+            "year": 1997,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/41649/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 190,
+        "fields": {
+            "title": "Хеллбой: Герой из пекла",
+            "year": 2004,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/5052/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 191,
+        "fields": {
+            "title": "Ведьмы",
+            "year": 1989,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/5295/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 192,
+        "fields": {
+            "title": "Незваные",
+            "year": 2008,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/279129/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 193,
+        "fields": {
+            "title": "Призрак дома на холме",
+            "year": 1963,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/8433/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 194,
+        "fields": {
+            "title": "Исцеление",
+            "year": 1997,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/60832/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 195,
+        "fields": {
+            "title": "Человек-волк",
+            "year": 1941,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/3151/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 196,
+        "fields": {
+            "title": "Братья Гримм",
+            "year": 2005,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/13469/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 197,
+        "fields": {
+            "title": "Истории ужасов",
+            "year": 1962,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/12964/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 198,
+        "fields": {
+            "title": "Доктор Стрэндж: В мультивселенной безумия",
+            "year": 2022,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/1219909/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 199,
+        "fields": {
+            "title": "До встречи в аду, дорогая моя",
+            "year": 1999,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/147919/"
+        }
+    },
+    {
+        "model": "MainApp.movies",
+        "pk": 200,
+        "fields": {
+            "title": "Корабль-призрак",
+            "year": 2002,
+            "film_ratings": 7.0,
+            "link": "https://www.kinopoisk.ru/film/5901/"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+    {% block content %}
+ <title>{{title}}</title>
+    {% endblock %}
+{% block content2 %}
+<h2>Авторизация</h2>
+    {% endblock %}
+{% block content1 %}
+<form action="{% url 'login' %}" method="post">
+    {% csrf_token %}
+    <div class="form-error">{{ form.non_field_errors }}</div>
+    {% for f in form %}
+    <div style=" padding: 3px"> <label > {{f.label}}: </label>
+        {{ f }}
+    </div>
+    <div class="form-error">{{ f.errors }}</div>
+    {% endfor %}
+    <button type="submit">Авторизация</button>
+</form>
+
+
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+    {% block content %}
+ <title>{{title}}</title>
+    {% endblock %}
+{% block content2 %}
+<h2>Добавить фильм:</h2>
+    {% endblock %}
+{% block content1 %}
+<form style="margin-left:50px" action="{% url 'add_movie' %}" method="post" enctype="multipart/form-data">
+
+    {% csrf_token %}
+    {% for f in form %}
+    <div style=" padding: 3px"> <label > {{f.label}}: </label>
+        {{ f }}
+    </div>
+    {% endfor %}
+    <button type="submit">Добавить</button>
+</form>
+
+
+{% endblock %}
